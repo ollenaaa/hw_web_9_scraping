@@ -1,0 +1,6 @@
+.vscode
+v_env
+__pycache__
+scrapy_project/scrapy_project/__pycache__
+scrapy_project/scrapy_project/spiders/__pycache__
+.DS_Store
